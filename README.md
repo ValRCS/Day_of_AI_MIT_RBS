@@ -174,7 +174,7 @@ Materials are hosted through **MIT RAISE** and updated regularly.
 | **Global (General)** | 2021–2025 | **Part of global “1+ million students”** (MIT RAISE total) | **Part of tens of thousands teachers trained** | Translations into Spanish, Portuguese, Mandarin, Arabic; adaptable modules | Broad global interest; fully free and online | Reporting varies widely across countries |
 
 
-# Day of AI — Teacher-Trainer Preparation Guide
+## Day of AI — Teacher-Trainer Preparation Guide
 
 This document provides a complete overview of how **Day of AI teacher-trainers** are prepared, what curriculum MIT offers to them, and how countries adapt and scale the program.  
 It includes:
