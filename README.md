@@ -18,6 +18,11 @@ Day of AI provides **ready-to-use curriculum**, **teacher guides**, and **age-ap
 - 👩‍🏫 **Teacher Resources & PD Webinars:**  
   https://raise.mit.edu/day-of-ai/educators
 
+## Day in AI in Latvia 🇱🇻
+
+Implemented by Riga Business School
+- https://dayofai.org/program-hubs/latvia
+
 ---
 
 ## 📘 Curriculum Breakdown by Grade Level  
