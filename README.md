@@ -174,6 +174,289 @@ Materials are hosted through **MIT RAISE** and updated regularly.
 | **Global (General)** | 2021–2025 | **Part of global “1+ million students”** (MIT RAISE total) | **Part of tens of thousands teachers trained** | Translations into Spanish, Portuguese, Mandarin, Arabic; adaptable modules | Broad global interest; fully free and online | Reporting varies widely across countries |
 
 
+# Day of AI — Teacher-Trainer Preparation Guide
+
+This document provides a complete overview of how **Day of AI teacher-trainers** are prepared, what curriculum MIT offers to them, and how countries adapt and scale the program.  
+It includes:
+
+- Introduction  
+- Section 1 — Curriculum for Teacher-Trainers  
+- Section 2 — Materials MIT Provides  
+- Section 3 — Structure of Train-the-Trainer Programs  
+- Section 4 — International Adaptations  
+- Section 5 — Summary Table  
+
+---
+
+## 🧑‍🏫 Introduction Curriculum for Teacher-Trainers (Meta-Pedagogy)
+
+Day of AI uses a **cascade training model**:
+
+**MIT → National Training Partners → Local Teacher-Trainers → Classroom Teachers → Students**
+
+Teacher-trainers are prepared not only in **AI content knowledge**, but also in **pedagogy**, **local adaptation**, **facilitation skills**, and **school-level implementation logistics**.  
+The goal is to ensure that trainers can confidently teach *teachers*, many of whom have no background in computer science.
+
+---
+
+### 1. Curriculum for Teacher-Trainers (Meta-Pedagogy)
+
+#### A. Foundations of AI (Content Knowledge)
+
+Teacher-trainers must master the same fundamental concepts teachers will later deliver:
+
+- What AI is and is not  
+- Machine learning basics (supervised, unsupervised, features, labels)  
+- Classification systems  
+- Training data, bias, representativeness  
+- Computer vision fundamentals  
+- Natural language processing basics  
+- Societal impacts of AI  
+- Responsible AI and ethics
+
+This builds confidence and conceptual accuracy before tackling pedagogy.
+
+---
+
+#### B. Pedagogical Approaches for Teaching AI to Teachers
+
+MIT trains trainers to teach teachers using:
+
+- High-scaffolding pedagogy for non-technical teachers  
+- Unplugged simulations of AI processes  
+- Structured discussions (ethics, implications, fairness)  
+- “Explain it like I’m 11” strategies  
+- Culturally responsive and inclusive teaching  
+- Adapting examples for K-12 grade bands  
+- Addressing common misconceptions  
+- Encouraging teacher self-efficacy around AI
+
+---
+
+#### C. Practice-Teaching & Simulation Labs
+
+Teacher-trainers participate in:
+
+- Micro-teaching sessions (5–10 minute lessons)  
+- Peer feedback cycles  
+- Role-play of “difficult teacher scenarios”  
+- Troubleshooting ML tools  
+- Classroom management during computational activities  
+- Calibrating assessments and rubrics across trainers
+
+These are known as **“pedagogical rehearsals”** in MIT’s methodology.
+
+---
+
+#### D. Curriculum Adaptation Workshops
+
+International deployments require local relevance. Trainers learn:
+
+- Localization of examples and datasets  
+- Translation guidelines  
+- Cultural adaptation of ethics scenarios  
+- Creating “compressed” or “extended” lesson variants  
+- Supporting online, hybrid, or face-to-face delivery  
+- Adapting modules for different levels of prior knowledge  
+- Working with ministries or school districts on alignment
+
+---
+
+#### E. Implementation Planning & School-Level Logistics
+
+Teacher-trainers are prepared to help schools with:
+
+- Scheduling Day of AI across multiple classrooms  
+- Device and software readiness checks  
+- Rotations/stations for large groups  
+- Safety and data privacy considerations  
+- Troubleshooting  
+- Pre- and post-activity student survey administration  
+- School-level reporting  
+
+MIT provides templates and planning guides.
+
+---
+
+### 2. Materials MIT Provides to Teacher-Trainers
+
+MIT supplies a full set of resources that go far beyond student-facing lesson plans:
+
+---
+
+#### A. Teacher Curriculum Guides (Detailed Teaching Manuals)
+
+Includes:
+
+- Full lesson scripts  
+- Timing breakdowns  
+- Required materials lists  
+- Background notes  
+- Suggested questions and answers  
+- Extensions and modifications  
+- Lists of expected misconceptions  
+- Detailed ethics prompts
+
+---
+
+#### B. Slide Decks (Trainer and Teacher Versions)
+
+Provided in two layers:
+
+1. **Trainer → Teacher slides**  
+2. **Teacher → Student slides**
+
+Slides include speaker notes, diagrams, videos, and interactive prompts.
+
+---
+
+#### C. Trainer Handbooks
+
+Trainer-specific resources include:
+
+- How to teach teachers AI  
+- How to evaluate teacher readiness  
+- Rubrics for micro-teaching  
+- Templates for 4-hour, 1-day and 2-day workshops  
+- Checklists for equipment and logistics
+
+---
+
+#### D. Online Courses (Self-Paced)
+
+Teacher-trainers receive access to MIT online modules such as:
+
+- *Introduction to AI for Teachers*  
+- *Foundations of Machine Learning for Educators*  
+- *Teaching AI Ethics in the Classroom*  
+- *AI Literacy and Pedagogical Strategies*  
+
+Courses include quizzes, videos, and reflective tasks.
+
+---
+
+#### E. Video Materials
+
+Includes:
+
+- “Inside the lab” interviews with MIT researchers  
+- Step-by-step tutorials  
+- Example classroom footage  
+- Ethics discussion starters  
+- Troubleshooting and demonstration videos
+
+---
+
+#### F. Technical Tools & Platforms
+
+MIT provides access to browser-based, installation-free AI tools:
+
+- Image classifiers  
+- Simple model builders  
+- Bias demonstration tools  
+- Block-based or Scratch-based AI tools  
+- Python and Jupyter examples for advanced tracks
+
+These tools are designed to run on standard school hardware.
+
+---
+
+#### G. Assessment & Evaluation Kits
+
+Includes:
+
+- Pre/post teacher knowledge surveys  
+- Teacher confidence instruments  
+- Student outcome rubrics  
+- Observation protocols  
+- Data collection templates
+
+Used for district-, national-, and pilot-level reporting.
+
+---
+
+#### H. Certificates & Trainer Access
+
+Teacher-trainers receive:
+
+- MIT-issued certificate or digital badge  
+- Access to trainer-only materials  
+- Permissions to run certified Day of AI workshops  
+- Optional refresher modules each year
+
+---
+
+### 3. Typical Structure of a Train-the-Trainer Program
+
+MIT encourages countries to choose either a **short format** (4–8 hrs) or a **comprehensive 2–3 day** format.
+
+---
+
+#### Example 2-Day Agenda
+
+##### **Day 1 — Pedagogy & Content**
+
+- Welcome and orientation  
+- The Day of AI philosophy  
+- Deep dive into curriculum modules  
+- Hands-on exploration of ML tools  
+- Teaching simulations  
+- Ethics and fairness masterclass  
+- Debrief and reflection  
+
+##### **Day 2 — Practicum & Implementation**
+
+- Micro-teaching in groups  
+- Facilitation skills for teacher workshops  
+- Localization and adaptation workshop  
+- School implementation guidance  
+- Troubleshooting labs  
+- Certification assessment  
+- Final debrief  
+
+---
+
+### 4. International Adaptations (Examples)
+
+#### Australia
+- National rollout supported by CSIRO.  
+- Over **7,500 teachers trained** (2021–2024).  
+- Emphasis on Indigenous communities and rural access.  
+- Day of AI embedded into digital literacy strategy.
+
+#### Colombia
+- Implemented through the Ministry of Education’s quality directorate.  
+- More than **2,000 teachers trained** during early phases.  
+- Full Spanish localization done with MIT support.  
+- Materials adapted to local contexts (transportation, agriculture, urban issues).  
+- Hybrid model (MIT online + local in-person sessions).
+
+#### Europe (Pilots)
+- Translations for several languages.  
+- Adaptation for GDPR and EU digital literacy standards.  
+- More data ethics and civic-oriented modules.
+
+International examples all use the cascade model:  
+**national team → regional trainers → teachers → students**.
+
+---
+
+### 5. Summary: Materials & Support from MIT
+
+| Category | Examples |
+|---------|----------|
+| **Teacher Curriculum** | Lesson scripts, background notes, timing guides |
+| **Trainer Curriculum** | Trainer handbooks, rubrics, workshop templates |
+| **Pedagogical Tools** | Misconception lists, scaffolding strategies |
+| **Technical Tools** | Browser-based ML demos, Scratch tools, Jupyter notebooks |
+| **Slides** | Trainer slide decks, teacher slide decks |
+| **Videos** | Tutorials, classroom examples, researcher interviews |
+| **Assessment** | Surveys, rubrics, observation protocols |
+| **Certification** | Trainer badges, access to restricted resources |
+| **Localization Support** | Templates, cultural adaptation guidance, translation notes |
+| **Implementation Materials** | Scheduling guides, device checklists, planning templates |
+
+
 ---
 
 For more information:  
